@@ -420,6 +420,7 @@
  - [react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button.
  - [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS.
  - [react-select-box](https://github.com/instructure-react/react-select-box) - An accessible select box component for React.
+ - [react-a11y-select](https://github.com/mdesjardins/react-a11y-select) - A select box with a focus on accessibility and simplicity
 
 
 #### Color Picker
